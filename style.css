@@ -1,0 +1,63 @@
+th {
+  color: rgb(78, 172, 172);
+}
+td {
+  color: rgb(157, 255, 0);
+}
+body {
+  font-family: "Open Sans Condensed", sans-serif;
+  background-color: rgb(221, 172, 172);
+}
+
+table {
+  font-size: 20px;
+}
+#div1 {
+  background-color: rgba(55, 0, 255, 0.76);
+}
+p {
+  color: blue;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.topnav a.active {
+  background-color: #04aa6d;
+  color: white;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+}
+h1 {
+  color: darkblue;
+}
+p {
+  width: 60%;
+}
